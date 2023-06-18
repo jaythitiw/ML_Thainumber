@@ -1,2 +1,2 @@
-# ML_Thainumber
+# ML_Thai number
 Thai Number
